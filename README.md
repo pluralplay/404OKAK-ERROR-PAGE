@@ -8,7 +8,7 @@
 Install:
 - unzip archive on your site folder (errorpage folder in root site folder)
 - edit your nginx.conf:
-- add your server block here:
+- add this code in your server block:
 
 ```
 error_page 400 404 500 502 /error.html; #choice the error codes that this page will return and delete this comment
