@@ -4,7 +4,7 @@
 
 ### Adaptation for mobile devices is a unfinished
 
-![enter image description here](https://i.ibb.co/sJMPV4ZY/photo-2025-05-26-16-20-40.jpg)
+![enter image description here](https://i.ibb.co/rKLSrRMP/4-DC435-DC-6-CEB-4696-AE33-D1-DD6-F61-FF92.png)
 Install:
 - unzip archive on your site folder (errorpage folder in root site folder)
 - edit your nginx.conf:
