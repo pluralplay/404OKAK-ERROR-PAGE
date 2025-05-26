@@ -6,7 +6,7 @@
 
 ![enter image description here](https://i.ibb.co/sJMPV4ZY/photo-2025-05-26-16-20-40.jpg)
 Install:
-- unzip archive on your site folder (errorpage folder)
+- unzip archive on your site folder (errorpage folder in root site folder)
 - edit your nginx.conf:
 - add your server block here:
 
